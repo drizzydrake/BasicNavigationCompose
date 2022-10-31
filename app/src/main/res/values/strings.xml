@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">comptest</string>
+    <string name="title_activity_main_compose">MainComposeActivity</string>
+</resources>
